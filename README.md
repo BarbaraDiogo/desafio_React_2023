@@ -1,3 +1,10 @@
+# Desafio de React
+Criar uma calculadora.
+
+# O que é React?
+São componentes que se comportam como tag HTML.
+Ao criar as tags podemos adicionar comportamentos a elas.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
